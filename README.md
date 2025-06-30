@@ -15,3 +15,18 @@
 !~#82d828;dotted;%#faa743% ͜ ︵˓ ʚ♡ɞ ˓ ︵ ͜%%~! %#fa0414%──%% %#2b88cb%" No freaking way, Warden. Go eat a slimeball "%% *!* ![](https://pixelbank.neocities.org/decome/wings/9d4a2809.gif)
 
 !~#82d828;wavy;[%#82d828%O1%%]()~!  !~#2583c4;wavy;[%#2583c4%O2%%]()~!  !~#f23c36;wavy;[%#f23c36%O3%%]()~!
+
+
+
+
+
+
+CONTAINER_PADDING = 30px
+CONTAINER_MAX_WIDTH = 450px
+CONTAINER_OUTER_BACKGROUND_COLOR = white
+CONTAINER_BORDER_COLOR = #fb3f34
+CONTAINER_BORDER_WIDTH = 2px
+CONTAINER_BORDER_STYLE = solid
+CONTAINER_BORDER_RADIUS = 20px
+CONTENT_FONT = Kosugi_Maru
+CONTENT_TEXT_COLOR = #0679f4
